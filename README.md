@@ -11,7 +11,7 @@ The [HEART Score](http://www.heartscore.nl/) was developed by Barbra Backus, MD,
 
 The [Emergency Department Assessment of Chest Pain Score (EDACS)](https://read.qxmd.com/read/24428678/development-and-validation-of-the-emergency-department-assessment-of-chest-pain-score-and-2-h-accelerated-diagnostic-protocol) was developed by Martin Than, MD, and Dylan Flaws, PhD.
 
-*Joint HEART-EDACS code was developed as a final deliverable for a school project and has not been assessed for use in clinical contexts.*
+*Joint HEART-EDACS code has not been assessed for use in clinical contexts.*
 
 # HEART-EDACS Tool Instructions:
 ### *When prompted by the tool, provide the following information as free-text:*
